@@ -1,7 +1,5 @@
 # Review_Classification
-Binary classification of a restaurant reviews
-
-This code uses data from vvvv for analysis
+## Binary classification of a restaurant reviews
 
 Pre-processing of text data was done using **NLTK** library in Python. The steps of pre-processing were:
 1. Removing special characters except apostrophes
